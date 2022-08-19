@@ -10,13 +10,15 @@
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 
-### Introduction
+### Allow me to introduce myself.
 I am a QA Engineer with previous experience across software teams as a business analyst, documentation writer, tester, developer, and creator.
 I mostly use this repository to share learning materials or experiment with my beloved, [Postman](https://www.postman.com/).
-Feel free to reach out through the avenues listed below, or drop a note in the Guestbook.
+Feel free to reach out through the avenues listed below, or drop a note in the Guestbook below.
+
+Outside of adventures in software , I love to play video games and collect old and new video games.  I am a Nintendo person at heart.
 
 
-### 📣 or 📫 or 💬
+### 📫 or 💬 or 👀
 <p>
   <a href="mailto:hellojenbauer@gmail.com?subject="I saw your GitHub profile and..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCkfdWDLYo08apIpgyhLxF7w"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
@@ -26,8 +28,19 @@ Feel free to reach out through the avenues listed below, or drop a note in the G
   <a href="https://jenbauer.carrd.co/"><img src="https://img.shields.io/badge/Carrd-004E9F.svg?style=for-the-badge&logo=ReadtheDocs&logoColor=white"/></a>
   <a href="https://jenbauercom/"><img src="https://img.shields.io/badge/JenBauer.com-004B8D.svg?style=for-the-badge&logo=ReadtheDocs&logoColor=white"/></a>
 </p>
-
-## Guestbook ([🖊️ Add an entry here 🖊️](https://github.com/jenbauer/jenbauer/issues/1#issuecomment-new))
+</br>
+<details>
+<summary><i>Stats for Nerds</i> ⚡️</summary>
+<br>
+<p>
+  <a href="https://github.com/jenbauer/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jenbauer&show_icons=true"/></a>
+  <a href="https://github.com/jenbauer/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenbauer&layout=compact"/></a>
+</p>
+<img src="https://komarev.com/ghpvc/?username=jenbauer" alt="https://github.com/jenbauer" />
+</details>
+</br>
+                                                                                         
+### Guestbook ([Add an entry here 🖊️](https://github.com/jenbauer/jenbauer/issues/1#issuecomment-new))
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|

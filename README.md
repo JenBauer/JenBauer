@@ -11,12 +11,15 @@
 </p>
 
 ### Allow me to introduce myself.
-I am a QA Engineer with previous experience across software teams as a business analyst, documentation writer, tester, developer, and creator.
-I mostly use this repository to share learning materials or experiment with my beloved, [Postman](https://www.postman.com/).
-Feel free to reach out through the avenues listed below, or drop a note in the Guestbook below.
+I am a QA Engineer with previous experience across software teams as a business analyst, documentation writer, tester, developer, and creator.  
+I mostly use this repository to share learning materials or experiment with my beloved, [Postman](https://www.postman.com/).  
+Feel free to reach out through the avenues listed below, or drop a note in the Guestbook at the end.
 
-Outside of adventures in software , I love to play video games and collect old and new video games.  I am a Nintendo person at heart.
+Outside of adventures in software, I love to play video games and collect old and new video games.  I am a Nintendo person at heart.
 
+### A few projects of note within this space.
+* An [Intro to API Testing Course](https://jenbauer.notion.site/Intro-to-API-Testing-Course-66f3463323d04b0e8bc53a07f48c416f) that I gave to Women Who Code Greenville, which covers the basics of Postman, variables, and test assertions.  You can also view this session recording on my [YouTube channel](https://www.youtube.com/watch?v=3cpivpqBOcs).
+* A brief overview on using [Using Newman with Github Actions](https://jenbauer.notion.site/Using-Newman-with-Github-Actions-8646898289fc4acd80d1239db2b85b73), which combines an automated test set up through Newman with a repository set with a Github Action to run the test suite.  The [recording](https://www.youtube.com/watch?v=amAd06F2fZU) was captured from a multi-topic meetup event with Women Who Code Greenville.
 
 ### 📫 or 💬 or 👀
 <p>
@@ -26,9 +29,10 @@ Outside of adventures in software , I love to play video games and collect old a
   <a href="https://twitter.com/HelloJenBauer"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://my.manualof.me/s/db6392176995a0417f9eab5b6a7d9b74"><img src="https://img.shields.io/badge/Manual%20Of%20Me-8CA1AF.svg?style=for-the-badge&logo=ReadtheDocs&logoColor=white"/></a>
   <a href="https://jenbauer.carrd.co/"><img src="https://img.shields.io/badge/Carrd-004E9F.svg?style=for-the-badge&logo=ReadtheDocs&logoColor=white"/></a>
-  <a href="https://jenbauercom/"><img src="https://img.shields.io/badge/JenBauer.com-004B8D.svg?style=for-the-badge&logo=ReadtheDocs&logoColor=white"/></a>
+  <a href="https://jenbauer.com/"><img src="https://img.shields.io/badge/JenBauer.com-004B8D.svg?style=for-the-badge&logo=ReadtheDocs&logoColor=white"/></a>
+  <a href="https://jenbauer.notion.site/jenbauer/Jen-Bauer-s-Docs-b549164bd7394f8c9ba40edd4bdbc8fb"><img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </p>
-</br>
+
 <details>
 <summary><i>Stats for Nerds</i> ⚡️</summary>
 <br>

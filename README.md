@@ -27,7 +27,7 @@ Feel free to reach out through the avenues listed below, or drop a note in the G
   <a href="https://jenbauercom/"><img src="https://img.shields.io/badge/JenBauer.com-004B8D.svg?style=for-the-badge&logo=ReadtheDocs&logoColor=white"/></a>
 </p>
 
-## Guestbook ([🆕🖊️ add an entry](https://github.com/jenbauer/jenbauer/issues/1#issuecomment-new))
+## Guestbook ([🖊️ Add an entry here 🖊️](https://github.com/jenbauer/jenbauer/issues/1#issuecomment-new))
 <!-- Guestbook -->
 </!-- Guestbook -->
 

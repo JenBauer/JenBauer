@@ -29,15 +29,6 @@ Feel free to reach out through the avenues listed below, or drop a note in the G
 
 ## Guestbook ([🖊️ Add an entry here 🖊️](https://github.com/jenbauer/jenbauer/issues/1#issuecomment-new))
 <!-- Guestbook -->
-</!-- Guestbook -->
-
-<details>
-<summary>⚡️ Fun and Nerdy Stats</summary>
-<br>
-<p>
-  <a href="https://github.com/jenbauer/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jenbauer&show_icons=true"/></a>
-  <a href="https://github.com/jenbauer/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenbauer&layout=compact"/></a>
-</p>
-<br>
-<img src="https://komarev.com/ghpvc/?username=jenbauer" alt="https://github.com/jenbauer" />
-</details>
+| Name | Date | Message |
+|---|---|---|
+|[![JenBauer](https://avatars.githubusercontent.com/u/43556044?s=24&u=59e0bb58acd80023ea44d02f514ec0e5fe2928a5&v=4)<br />JenBauer](https://github.com/JenBauer)|8/19/2022, 3:08:00 PM|Welcome to my Github profile page, folks!|

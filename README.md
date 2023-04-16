@@ -18,7 +18,7 @@ Feel free to reach out through the avenues listed below, or drop a note in the G
 Outside of adventures in software, I love to play video games and collect old and new video games.  I am a Nintendo person at heart.
 
 ### A few projects of note within this space.
-* An [Intro to API Testing Course](https://jenbauer.notion.site/Intro-to-API-Testing-Course-66f3463323d04b0e8bc53a07f48c416f) that I gave to Women Who Code Greenville, which covers the basics of Postman, variables, and test assertions.  You can also view this session recording on my [YouTube channel](https://www.youtube.com/watch?v=3cpivpqBOcs).
+* An [Intro to API Testing Course](https://jenbauer.notion.site/Intro-to-API-Testing-Course-66f3463323d04b0e8bc53a07f48c416f) that I gave to Women Who Code Greenville, which covers the basics of Postman, variables, and test assertions.  You can also view this session recording on my [YouTube channel](https://www.youtube.com/@JenBauer).
 * A brief overview on using [Using Newman with Github Actions](https://jenbauer.notion.site/Using-Newman-with-Github-Actions-8646898289fc4acd80d1239db2b85b73), which combines an automated test set up through Newman with a repository set with a Github Action to run the test suite.  The [recording](https://www.youtube.com/watch?v=amAd06F2fZU) was captured from a multi-topic meetup event with Women Who Code Greenville.
 
 ### 📫 or 💬 or 👀

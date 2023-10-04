@@ -49,7 +49,7 @@ Outside of adventures in software, I love to play video games and collect old an
 </br>
 
 ### 🌈 Digital Stickers 🌟
-<iframe src="https://api.badgr.io/public/collections/e826c704467f42119ec1c43039fd09ff?embed=true&amp;embedVersion=1&amp;embedWidth=330&amp;embedHeight=146" title="Jen's Badges" style="width: 330px; height: 146px; border: 0px;"></iframe>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/N9UiNpAKRdqrag0FwH8ogA"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/N9UiNpAKRdqrag0FwH8ogA/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">30 days of Postman - for developers</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Jen Bauer</span></p></blockquote>
 
 [![An image of @jenbauer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jenbauer)](https://holopin.io/@jenbauer)
                                                                                          

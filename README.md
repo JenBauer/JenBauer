@@ -2,22 +2,24 @@
 <p>
   <img src="https://img.shields.io/badge/-VS%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-strudel-010000?style=flat-square&logoColor=white"/>
 </p>
 
-### Allow me to introduce myself.
+### 🙇 Allow me to introduce myself.
 I am a QA Engineer with previous experience across software teams as a business analyst, documentation writer, tester, developer, and creator.  
-I mostly use this repository to share learning materials or experiment with my beloved, [Postman](https://www.postman.com/).  
+I mostly use this repository to share learning materials or experiment with [Postman](https://www.postman.com/).  
 Feel free to reach out through the avenues listed below, or drop a note in the Guestbook at the end.
 
-Outside of adventures in software, I love to play video games and collect old and new video games.  I am a Nintendo person at heart.
+Outside of adventures in software, I love to play video games and collect old and new ones.  I am a Nintendo person at heart.
 
-### A few projects of note within this space.
+### ⌨️ A few projects of note within this space.
 * An [Intro to API Testing Course](https://jenbauer.notion.site/Intro-to-API-Testing-Course-66f3463323d04b0e8bc53a07f48c416f) that I gave to Women Who Code Greenville, which covers the basics of Postman, variables, and test assertions.  You can also view this session recording on my [YouTube channel](https://www.youtube.com/@JenBauer).
 * A brief overview on using [Using Newman with Github Actions](https://jenbauer.notion.site/Using-Newman-with-Github-Actions-8646898289fc4acd80d1239db2b85b73), which combines an automated test set up through Newman with a repository set with a Github Action to run the test suite.  The [recording](https://www.youtube.com/watch?v=amAd06F2fZU) was captured from a multi-topic meetup event with Women Who Code Greenville.
 
@@ -26,7 +28,9 @@ Outside of adventures in software, I love to play video games and collect old an
   <a href="mailto:hellojenbauer@gmail.com?subject="I saw your GitHub profile and..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCkfdWDLYo08apIpgyhLxF7w"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/thejenbauer/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/HelloJenBauer"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://mastodon.social/@jenbauer"><img src="https://img.shields.io/badge/mastodon-black.svg?style=for-the-badge&logo=mastodon&logoColor=6364FF"/></a>
+  <a href="https://bsky.app/profile/jenbauer.bsky.social"><img src="https://img.shields.io/badge/bluesky-black.svg?style=for-the-badge&logo=bsky&logoColor=white"/></a>
+  <a href="https://www.threads.net/@hellojenbauer"><img src="https://img.shields.io/badge/threads-black.svg?style=for-the-badge&logo=threads&logoColor=white"/></a>
   <a href="https://my.manualof.me/s/db6392176995a0417f9eab5b6a7d9b74"><img src="https://img.shields.io/badge/Manual%20Of%20Me-8CA1AF.svg?style=for-the-badge&logo=ReadtheDocs&logoColor=white"/></a>
   <a href="https://jenbauer.carrd.co/"><img src="https://img.shields.io/badge/Carrd-004E9F.svg?style=for-the-badge&logo=ReadtheDocs&logoColor=white"/></a>
   <a href="https://jenbauer.com/"><img src="https://img.shields.io/badge/JenBauer.com-004B8D.svg?style=for-the-badge&logo=ReadtheDocs&logoColor=white"/></a>
@@ -43,8 +47,13 @@ Outside of adventures in software, I love to play video games and collect old an
 <img src="https://komarev.com/ghpvc/?username=jenbauer" alt="https://github.com/jenbauer" />
 </details>
 </br>
+
+### 🌈 Digital Stickers 🌟
+<iframe src="https://api.badgr.io/public/collections/e826c704467f42119ec1c43039fd09ff?embed=true&amp;embedVersion=1&amp;embedWidth=330&amp;embedHeight=146" title="Jen's Badges" style="width: 330px; height: 146px; border: 0px;"></iframe>
+
+[![An image of @jenbauer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jenbauer)](https://holopin.io/@jenbauer)
                                                                                          
-### Guestbook ([Add an entry here 🖊️](https://github.com/jenbauer/jenbauer/issues/1#issuecomment-new))
+### 📖 Guestbook ([Add an entry here 🖊️](https://github.com/jenbauer/jenbauer/issues/1#issuecomment-new))
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|

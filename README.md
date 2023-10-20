@@ -85,7 +85,6 @@ Outside of adventures in software, I love to play video games and collect old an
   <img src="https://img.shields.io/badge/Square%20Enix-ED1C24?logo=squareenix&logoColor=fff&style=flat" alt="Square Enix Badge">
   <img src="https://img.shields.io/badge/Speedtest-141526?logo=speedtest&logoColor=fff&style=flat" alt="Speedtest Badge">
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=fff&style=flat" alt="Sourcetree Badge">
-  <img src="https://img.shields.io/badge/SoundCloud-F30?logo=soundcloud&logoColor=fff&style=flat" alt="SoundCloud Badge">
   <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat" alt="Reddit Badge">
   <img src="https://img.shields.io/badge/PlayStation-003791?logo=playstation&logoColor=fff&style=flat" alt="PlayStation Badge">
   <img src="https://img.shields.io/badge/Oculus-1C1E20?logo=oculus&logoColor=fff&style=flat" alt="Oculus Badge">

@@ -25,7 +25,8 @@
 
 ### 🙇 Allow me to introduce myself.
 I am a QA Engineer with previous experience across software teams as a business analyst, documentation writer, tester, developer, and creator.  
-I mostly use this repository to share learning materials or experiment with [Postman](https://www.postman.com/).  
+I mostly use this repository to share learning materials or experiment with [Postman](https://www.postman.com/).
+You can also find me setting up projects and/or mischief with Women Who Code Greenville as a chapter lead, either through events or in their [respository](https://github.com/WomenWhoCode/WWCodeGreenville).
 Feel free to reach out through the avenues listed below, or drop a note in the Guestbook at the end.
 
 Outside of adventures in software, I love to play video games and collect old and new ones.  I am a Nintendo person at heart.

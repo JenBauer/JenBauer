@@ -24,9 +24,11 @@
 </p>
 
 ### 🙇 Allow me to introduce myself.
-I am a QA Engineer with previous experience across software teams as a business analyst, documentation writer, tester, developer, and creator.  
+I'm Jen Bauer, a technical consultant/detective for hire through my company, [Another Angle Solutions](https://anotheranglesolutions.com).
+I am also honored to be the Executive Director of [Upstate Women in Software Engineering](https://upwisesc.org).
+I have experience as a QA Engineer with previous experience across software teams as a business analyst, documentation writer, tester, developer, and creator.  
 I mostly use this repository to share learning materials or experiment with [Postman](https://www.postman.com/).
-You can also find me setting up projects and/or mischief with Women Who Code Greenville as a chapter lead, either through events or in their [respository](https://github.com/WomenWhoCode/WWCodeGreenville).
+You can also find me setting up projects and/or mischief with [UpWiSE](https://github.com/UpstateWomenInSoftwareEngineering).
 Feel free to reach out through the avenues listed below, or drop a note in the Guestbook at the end.
 
 Outside of adventures in software, I love to play video games and collect old and new ones.  I am a Nintendo person at heart.
